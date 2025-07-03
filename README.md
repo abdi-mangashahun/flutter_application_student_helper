@@ -1,6 +1,6 @@
 # flutter_application_student_helper
 
-A new Flutter project.
+A new Flutter projects.
 
 ## Getting Started
 
